@@ -69,4 +69,5 @@
 </div>
 
 <br/>
-![snake gif](https://github.com/PvsKrishnaMohan/PvsKrishnaMohan/blob/output/github-snake-dark.sv)
+![snake gif](https://github.com/PvsKrishnaMohan/PvsKrishnaMohan/blob/output/github-snake-dark.svg)
+
