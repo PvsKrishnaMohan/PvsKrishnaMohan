@@ -1,20 +1,18 @@
-# Hi, I'm Krishna Mohan! 👋
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=PvsKrishnaMohan.PvsKrishnaMohan" style="float: right;" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=PvsKrishnaMohan.PvsKrishnaMohan" style="float: left;" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krishna+Mohan+P.V.S;" />
 </h1>
 
-<h3 align="center">A passionate FrontEnd developer from India</h3>
+<h3 align="center">A passionate FrontEnd Developer from India 💻</h3>
 
 <br/>
 
 <div align="center">
-    🔭 I’m currently working on **a marketplace**  
-    🌱 I’m currently learning **Docker, Supabase, AWS**  
-    💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/PvsKrishnaMohan/PvsKrishnaMohan/issues)**  
-    ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**  
+    🔭 **Current Focus:** Building a **Marketplace** with cutting-edge technologies.<br/>
+    🌱 **Learning:** Docker, Supabase, and AWS to enhance cloud-native development.<br/>
+    💬 **Ask me about:** **Node.js**, **React**, **Firebase**, or anything else on my [GitHub Issues page](https://github.com/PvsKrishnaMohan/PvsKrishnaMohan/issues).<br/>
+    ⚡ **Fun Fact:** The **Night's Watch cloaks** in Game of Thrones are actually made from Ikea rugs! 🏰
 </div>
 
 <div align="center">
@@ -31,43 +29,24 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql,flask" />
-</div>
+<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,html,css,vscode,git" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap,python" />
+</p>
 
-<br/><hr/>
+<hr/>
 
 <div align="center">
-    <h2>🐍 My Contributions 🐍</h2>
-    <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PvsKrishnaMohan/PvsKrishnaMohan/refs/heads/output/github-snake-dark.svg" />
+    <h2>🧑‍💻 My Contributions</h2>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PvsKrishnaMohan/PvsKrishnaMohan/output/github-snake-dark.svg" />
     <br/><br/><br/>
 </div>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    <img width=390 src="https://github-readme-streak-stats-PvsKrishnaMohan.vercel.app/?user=PvsKrishnaMohan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img width=390 src="https://github-readme-stats-PvsKrishnaMohan.vercel.app/api?username=PvsKrishnaMohan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <br/>
-    <img width=325 align="center" src="https://github-readme-stats-PvsKrishnaMohan.vercel.app/api/top-langs/?username=PvsKrishnaMohan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
-<br/><br/>
-
-<hr/>
-
-<div align="center">
-    <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
-        <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-    </a>
-</div>
 
 <br/>
-![snake gif](https://raw.githubusercontent.com/PvsKrishnaMohan/PvsKrishnaMohan/refs/heads/output/github-snake.svg)
-
