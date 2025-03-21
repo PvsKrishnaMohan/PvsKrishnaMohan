@@ -43,7 +43,7 @@
 <div align="center">
     <h2>🐍 My Contributions 🐍</h2>
     <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PvsKrishnaMohan/PvsKrishnaMohan/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PvsKrishnaMohan/PvsKrishnaMohan/refs/heads/output/github-snake-dark.svg" />
     <br/><br/><br/>
 </div>
 
@@ -69,5 +69,5 @@
 </div>
 
 <br/>
-![snake gif](https://github.com/PvsKrishnaMohan/PvsKrishnaMohan/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/PvsKrishnaMohan/PvsKrishnaMohan/refs/heads/output/github-snake.svg)
 
