@@ -18,7 +18,7 @@
 
 <h2 align="center">Languages & Tools</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,python,tailwindcss,bootstrap,jest,materialUi" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,python,tailwindcss,bootstrap,jest,materialui" />
 </p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,git,netlify,github" />
